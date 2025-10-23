@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou o Eric Botelho Santos!!✌️</h2>
+<img align="center" alt="" src="./src/github-header-banner.png">
 
 ###
 
