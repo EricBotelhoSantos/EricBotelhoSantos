@@ -1,6 +1,14 @@
-<h2 align="left">Olá! Eu sou o Eric Botelho Santos!!✌️</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img align="center" alt="" src="./src/github-header-banner.png">
 
 ###
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unifametro em Fortaleza. Minha verdadeira paixão sempre esteve em inovar, criar e resolver desafios com o poder da computação. Por isso, meu foco profissional agora é aplicar toda a minha energia e dedicação para inovar e gerar resultados na área de tecnologia.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EricBotelhoSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdlcXI3eW40cDVvMDVxNnI0cjByNmZlMGgwNHkweHBuanUxbHJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdoiN7rZuGDJPs2rAS/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRoNHp2NGczaTNhdXhxN3M5d3JqeTlwbms4ZGczNDlmYTdsNTBhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 
 ###
 
