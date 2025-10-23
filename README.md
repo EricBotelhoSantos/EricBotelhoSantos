@@ -8,7 +8,7 @@
 
 ###
 
-<p lign="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unifametro em Fortaleza. Minha verdadeira paixão sempre esteve em inovar, criar e resolver desafios com o poder da computação. Por isso, meu foco profissional agora é aplicar toda a minha energia e dedicação para inovar e gerar resultados na área de tecnologia.</p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unifametro em Fortaleza. Minha verdadeira paixão sempre esteve em inovar, criar e resolver desafios com o poder da computação. Por isso, meu foco profissional agora é aplicar toda a minha energia e dedicação para inovar e gerar resultados na área de tecnologia.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EricBotelhoSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
