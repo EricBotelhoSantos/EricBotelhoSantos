@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdlcXI3eW40cDVvMDVxNnI0cjByNmZlMGgwNHkweHBuanUxbHJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdoiN7rZuGDJPs2rAS/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRoNHp2NGczaTNhdXhxN3M5d3JqeTlwbms4ZGczNDlmYTdsNTBhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdlcXI3eW40cDVvMDVxNnI0cjByNmZlMGgwNHkweHBuanUxbHJhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdoiN7rZuGDJPs2rAS/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRoNHp2NGczaTNhdXhxN3M5d3JqeTlwbms4ZGczNDlmYTdsNTBhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
 
 ###
 
