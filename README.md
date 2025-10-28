@@ -6,7 +6,7 @@
 
 #
 
-<img align="center" alt="" src="./src/github-header-banner.png">
+<img align="center" alt="" src="./src/banner.jpeg">
 
 #
 
