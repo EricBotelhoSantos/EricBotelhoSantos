@@ -111,7 +111,7 @@ hobbies:
 <div align="center">
 
   [![Email](https://img.shields.io/badge/-dev.ericbotelho@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00F6)](mailto:dev.ericbotelho@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-Eric_Botelho_Santos-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/ericbotelhosantos/)
+  [![LinkedIn](https://img.shields.io/badge/-Eric_Botelho_Santos-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGMDBGNiIgZD0iTTIwLjQ1MiAyMC40NTJIMTYuODkzVjE0Ljg4M2MwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzdDMTMuMTggMTEuODQ4IDEyLjkxIDEzLjIgMTIuOTEgMTQuODE0djUuNjM4SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMS45ODIgMS45ODIgMCAwIDEtMS45OC0xLjk4IDEuOTggMS45OCAwIDEgMSAxLjk4LTEuOTggMS45OCAxLjk4IDAgMCAxIDEuOTggMS45OGMwIDEuMDk2LS44ODMgMS45OC0xLjk4IDEuOTh6bTEuNzggMTMuMDE5SDMuNTU3VjloMy41NnYxMS40NTJ6TTIyLjIyNCAwSDEuNzcyQy43OTcgMCAwIC43NyAwIDEuNzIzdjIwLjU0OUMwIDIzLjIyNy43OTcgMjQgMS43NzIgMjRoMjAuNDUyQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyM0MyNCAuNzcgMjMuMiAwIDIyLjIyMiAwaC4wMDJ6Ii8+PC9zdmc+)](https://www.linkedin.com/in/ericbotelhosantos/)
   [![Instagram](https://img.shields.io/badge/-@eric.xz__-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/eric.xz_/)
 
 </div>
