@@ -86,12 +86,6 @@ hobbies:
 
 <br>
 
-<!-- TROPHIES -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EricBotelhoSantos&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="trophies" />
-</div>
-
 <!-- ACTIVITY GRAPH -->
 
 <div align="center">
