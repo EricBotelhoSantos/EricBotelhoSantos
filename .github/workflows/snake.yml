@@ -1,0 +1,61 @@
+name: Contribution Snake
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the main branch
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph,
+      # output a svg animation at <svg_out_path>
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # publish the SVGs to the output branch only when they changed,
+      # so https://raw.githubusercontent.com/<owner>/<repo>/output/<file> stays stable
+      - name: Publish SVGs to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          WT="$RUNNER_TEMP/output-wt"
+          if ! git clone --depth 1 --branch output "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "$WT"; then
+            git init "$WT"
+            git -C "$WT" checkout -b output
+          fi
+          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg "$WT/"
+          cd "$WT"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "chore: update contribution snake"
+            git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:output
+          fi

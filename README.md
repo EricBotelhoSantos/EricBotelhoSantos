@@ -20,7 +20,7 @@
 
 <!-- ABOUT ME -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Tarikul-Islam-Anis/main/assets/Hi.gif" width="30"> &nbsp;About Me
+## <img src="./src/hi.gif" width="30"> &nbsp;About Me
 
 <img align="right" height="200px" src="./src/study.gif" alt="Study Animation">
 
@@ -98,13 +98,13 @@ hobbies:
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=EricBotelhoSantos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00F6&icon_color=FF00F6&text_color=C9D1D9"
+  src="./profile/stats.svg"
   alt="GitHub Stats"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBotelhoSantos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00F6&text_color=C9D1D9"
+  src="./profile/top-langs.svg"
   alt="Top Languages"
 />
 
@@ -124,7 +124,7 @@ hobbies:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EricBotelhoSantos&bg_color=0D1117&color=FF00F6&line=FF00F6&point=FFFFFF&area=true&area_color=FF00F680&hide_border=true" width="95%" alt="GitHub Activity Graph">
+<img src="./profile/activity-graph.svg" width="95%" alt="GitHub Activity Graph">
 
 </div>
 
