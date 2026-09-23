@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./src/banner.jpeg" width="100%" alt="Eric Botelho Santos — Banner">
+<img src="./src/banner.png" width="100%" alt="Eric Botelho Santos — Banner">
 
 <br>
 
