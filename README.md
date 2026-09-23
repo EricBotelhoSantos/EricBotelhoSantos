@@ -96,9 +96,17 @@ hobbies:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricBotelhoSantos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00F6&icon_color=FF00F6&text_color=C9D1D9" alt="GitHub Stats">
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=EricBotelhoSantos&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00F6&icon_color=FF00F6&text_color=C9D1D9"
+  alt="GitHub Stats"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=EricBotelhoSantos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00F6&text_color=C9D1D9" alt="Top Languages">
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBotelhoSantos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00F6&text_color=C9D1D9"
+  alt="Top Languages"
+/>
 
 </div>
 
